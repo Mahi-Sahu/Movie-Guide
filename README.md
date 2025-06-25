@@ -25,4 +25,10 @@ MovieGuide is a simple and responsive web application that allows users to searc
 3. The response data is parsed and displayed on the page, including rating, genre, release date, plot, and cast.
 
 ## 📸 Screenshots
+![MovieGuide Screenshot](Screenshots/errormessages.png)
+![MovieGuide Screenshot](Screenshots/movieSearch.png)
+![MovieGuide Screenshot](Screenshots/responsive.png)
+
+
+
 
